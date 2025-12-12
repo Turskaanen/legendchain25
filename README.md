@@ -1,2 +1,4 @@
 # legendchain25
-testing
+
+
+rip Legendchain25, welcome TurskaCoin!
